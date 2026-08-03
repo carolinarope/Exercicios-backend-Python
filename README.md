@@ -23,12 +23,13 @@ Dezembro: 5 exercícios
 ## Objetivo
 
 Mostrar experiência real de backend junior no portfólio.
-
 ## Como Rodar
 
+Para executar os exercícios no terminal, use o comando `python` seguido do caminho do arquivo. 
+
+**Exemplo rodando o exercício de listas:**
 ```bash
-python exercicios-backend-python/01-basico/01_login_simples.py
+python Python01-basico/01-listas.py
 ```
 
----
-Atualizado: 31/07/2026
+-- Atualizado: 03/08/2026
