@@ -30,4 +30,6 @@ Para executar os exercícios no terminal, use o comando `python` seguido do cami
 **Exemplo rodando o exercício de listas:**
 ```bash
 python Python01-basico/01-listas.py
-Atualizado: 03/08/2026
+```
+
+-- Atualizado: 03/08/2026
