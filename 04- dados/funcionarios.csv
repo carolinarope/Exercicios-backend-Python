@@ -1,0 +1,101 @@
+id_funcionario,nome_completo,email_corporativo,departamento,cargo,salario,data_nascimento,data_contratacao,status_ativo
+1,Maria Silva,maria.silva@empresa.com,TI,Desenvolvedor Backend Pleno,6500.00,1992-05-14,2020-02-10,Sim
+2,João Souza,joao.souza@empresa.com,RH,Analista de RH Junior,3200.00,1998-10-21,2023-01-15,Sim
+3,Ana Costa,ana.costa@empresa.com,Financeiro,Gerente Financeiro,12000.00,1985-03-02,2018-07-20,Sim
+4,Carlos Pereira,carlos.pereira@empresa.com,Vendas,Executivo de Vendas,5500.00,1990-12-11,2021-03-01,Sim
+5,Beatriz Lima,beatriz.lima@empresa.com,TI,Desenvolvedor Frontend Junior,4000.00,2001-07-25,2024-02-10,Sim
+6,Lucas Alves,lucas.alves@empresa.com,Marketing,Analista de Marketing Pleno,5000.00,1994-09-30,2021-11-05,Não
+7,Fernanda Gomes,fernanda.gomes@empresa.com,Logística,Coordenador de Logística,7500.00,1988-06-18,2019-09-12,Sim
+8,Rafael Martins,rafael.martins@empresa.com,TI,Desenvolvedor Backend Senior,9800.00,1989-11-22,2019-04-10,Sim
+9,Juliana Castro,juliana.castro@empresa.com,Vendas,Gerente de Vendas,11000.00,1986-04-05,2017-08-23,Sim
+10,Pedro Rocha,pedro.rocha@empresa.com,RH,Coordenador de RH,8000.00,1987-12-08,2020-05-17,Sim
+11,Camila Ribeiro,camila.ribeiro@empresa.com,TI,Engenheiro de Dados Pleno,7200.00,1993-01-14,2022-03-14,Sim
+12,Thiago Santos,thiago.santos@empresa.com,Financeiro,Analista Financeiro Pleno,5200.00,1991-05-29,2021-08-01,Sim
+13,Marina Melo,marina.melo@empresa.com,Marketing,Diretor de Marketing,18000.00,1980-02-10,2015-10-15,Sim
+14,Felipe Dias,felipe.dias@empresa.com,TI,Desenvolvedor Backend Junior,4200.00,2000-08-19,2023-09-01,Sim
+15,Amanda Carvalho,amanda.carvalho@empresa.com,Vendas,Assistente de Vendas,2500.00,2002-11-03,2024-01-20,Sim
+16,Diego Moraes,diego.moraes@empresa.com,Logística,Analista de Logística Junior,3000.00,1999-03-27,2023-06-12,Não
+17,Letícia Farias,leticia.farias@empresa.com,TI,Arquiteto de Software,14000.00,1984-07-22,2016-04-05,Sim
+18,Bruno Nogueira,bruno.nogueira@empresa.com,RH,Assistente de RH,2300.00,2003-02-15,2024-03-10,Sim
+19,Sofia Barros,sofia.barros@empresa.com,Financeiro,Analista Financeiro Senior,7800.00,1989-10-09,2018-11-20,Sim
+20,Rodrigo Teixeira,rodrigo.teixeira@empresa.com,TI,Desenvolvedor Frontend Pleno,6200.00,1995-04-18,2021-02-15,Sim
+21,Isabella Ramos,isabella.ramos@empresa.com,Marketing,Assistente de Marketing,2600.00,2001-09-11,2023-10-01,Sim
+22,Gustavo Mendes,gustavo.mendes@empresa.com,Vendas,Executivo de Vendas,5800.00,1992-01-25,2020-07-10,Sim
+23,Natália Correia,natalia.correia@empresa.com,Logística,Gerente de Operações,11500.00,1985-08-30,2017-02-18,Sim
+24,Eduardo Vieira,eduardo.vieira@empresa.com,TI,Tech Lead,13500.00,1987-05-12,2018-09-01,Sim
+25,Carolina Azevedo,carolina.azevedo@empresa.com,RH,Business Partner,8500.00,1990-11-04,2019-12-10,Sim
+26,Leonardo Cardoso,leonardo.cardoso@empresa.com,Financeiro,Diretor Financeiro,20000.00,1978-03-21,2014-06-05,Sim
+27,Vitória Pires,vitoria.pires@empresa.com,TI,Desenvolvedor Backend Pleno,6800.00,1994-06-17,2022-01-20,Sim
+28,Marcelo Silva,marcelo.silva@empresa.com,Marketing,Gerente de Produto,12500.00,1988-12-09,2019-05-15,Sim
+29,Daniela Cunha,daniela.cunha@empresa.com,Vendas,Coordenador de Vendas,8200.00,1991-07-28,2020-03-12,Não
+30,Alexandre Sales,alexandre.sales@empresa.com,Logística,Assistente de Frota,2400.00,2000-02-22,2023-11-01,Sim
+31,Bárbara Monteiro,barbara.monteiro@empresa.com,TI,Engenheiro de DevOps,9500.00,1993-09-15,2021-08-10,Sim
+32,Ricardo Campos,ricardo.campos@empresa.com,RH,Recrutador Tech,4800.00,1996-04-03,2022-05-20,Sim
+33,Renata Pinto,renata.pinto@empresa.com,Financeiro,Assistente de Faturamento,2700.00,1999-10-18,2023-07-15,Sim
+34,Fábio Guedes,fabio.guedes@empresa.com,Marketing,Designer Pleno,5500.00,1995-01-08,2021-04-10,Sim
+35,Larissa Neves,larissa.neves@empresa.com,Vendas,Executivo de Vendas,5700.00,1993-08-25,2020-10-05,Sim
+36,André Freitas,andre.freitas@empresa.com,TI,Desenvolvedor Mobile Junior,4500.00,1998-05-30,2023-02-01,Sim
+37,Tatiane Moura,tatiane.moura@empresa.com,Logística,Analista de Suprimentos Pleno,4900.00,1992-12-14,2019-11-20,Sim
+38,Márcio Borges,marcio.borges@empresa.com,RH,Analista de Departamento Pessoal,4200.00,1990-03-27,2021-06-15,Sim
+39,Patrícia Lima,patricia.lima@empresa.com,Financeiro,Contador Senior,8800.00,1986-07-09,2017-09-10,Sim
+40,Sérgio Reis,sergio.reis@empresa.com,TI,Desenvolvedor Backend Junior,4100.00,2001-11-22,2024-01-15,Sim
+41,Clarice Mendes,clarice.mendes@empresa.com,Marketing,Analista de SEO,4600.00,1997-02-14,2022-10-10,Sim
+42,Vitor Nunes,vitor.nunes@empresa.com,Vendas,Assistente Comercial,2600.00,2000-06-05,2023-08-01,Não
+43,Débora Viana,debora.viana@empresa.com,Logística,Coordenador de Distribuição,7300.00,1989-09-19,2018-04-20,Sim
+44,Henrique Machado,henrique.machado@empresa.com,TI,Desenvolvedor Frontend Senior,9200.00,1991-01-30,2019-07-15,Sim
+45,Silvia Duarte,silvia.duarte@empresa.com,RH,Gerente de RH,13000.00,1983-11-12,2016-02-10,Sim
+46,Marcos Moraes,marcos.moraes@empresa.com,Financeiro,Analista de Crédito Pleno,5400.00,1994-08-03,2021-12-01,Sim
+47,Aline Peixoto,aline.peixoto@empresa.com,TI,Analista de QA Pleno,5800.00,1995-05-21,2022-09-10,Sim
+48,Caio Batista,caio.batista@empresa.com,Marketing,Especialista em Mídia Paga,8500.00,1990-10-15,2020-01-20,Sim
+49,Priscila Faria,priscila.faria@empresa.com,Vendas,Diretor Comercial,19000.00,1979-04-27,2015-05-15,Sim
+50,Roberto Guimarães,roberto.guimaraes@empresa.com,Logística,Motorista,3200.00,1985-12-08,2019-10-10,Sim
+51,Jéssica Lemos,jessica.lemos@empresa.com,TI,Engenheiro de Software Senior,11000.00,1988-02-14,2017-08-01,Sim
+52,Fernando Tavares,fernando.tavares@empresa.com,RH,Analista de Treinamento,4700.00,1993-07-19,2021-03-15,Sim
+53,Luana Pacheco,luana.pacheco@empresa.com,Financeiro,Assistente Administrativo,2400.00,2002-09-02,2023-11-10,Não
+54,Tiago Bessa,tiago.bessa@empresa.com,Vendas,Executivo de Vendas,5600.00,1991-03-25,2020-09-20,Sim
+55,Vanessa Aguiar,vanessa.aguiar@empresa.com,TI,Scrum Master,8900.00,1987-06-30,2019-02-05,Sim
+56,Arthur Leite,arthur.leite@empresa.com,Marketing,Analista de Conteúdo Junior,3500.00,1998-11-11,2022-07-12,Sim
+57,Simone Brito,simone.brito@empresa.com,Logística,Analista de Roteirização,4200.00,1994-01-18,2021-05-10,Sim
+58,Guilherme Pires,guilherme.pires@empresa.com,TI,Desenvolvedor Fullstack Pleno,7500.00,1996-08-05,2020-11-15,Sim
+59,Raquel Sampaio,raquel.sampaio@empresa.com,Financeiro,Coordenador de Contabilidade,9000.00,1985-04-23,2018-10-01,Sim
+60,Samuel Padrão,samuel.padrao@empresa.com,Vendas,Analista de Pricing,5100.00,1992-09-17,2021-01-20,Sim
+61,Mirella Diniz,mirella.diniz@empresa.com,TI,Desenvolvedor Backend Junior,4300.00,2000-12-04,2024-02-15,Sim
+62,Ivan Gusmão,ivan.gusmao@empresa.com,RH,Estagiário de RH,1500.00,2004-05-19,2024-01-10,Sim
+63,Tereza Fontes,tereza.fontes@empresa.com,Financeiro,Analista de Tesouraria,6000.00,1990-10-02,2019-06-15,Sim
+64,Murilo Dantas,murilo.dantas@empresa.com,Marketing,Social Media Pleno,4500.00,1997-03-14,2022-04-20,Sim
+65,Helena Ferraz,helena.ferraz@empresa.com,Vendas,Gerente Regional,12000.00,1984-08-27,2016-11-05,Sim
+66,Joaquim Valente,joaquim.valente@empresa.com,Logística,Estoquista,2200.00,1999-01-09,2023-05-10,Não
+67,Kelly Barros,kelly.barros@empresa.com,TI,Cientista de Dados Senior,12500.00,1989-07-03,2018-03-12,Sim
+68,Wagner Luz,wagner.luz@empresa.com,RH,Analista de Cargos e Salários,5500.00,1991-11-20,2020-08-15,Sim
+69,Lívia Cordeiro,livia.cordeiro@empresa.com,Financeiro,Estagiário Financeiro,1500.00,2003-04-28,2024-02-01,Sim
+70,Emanuel Maciel,emanuel.maciel@empresa.com,TI,Especialista de Segurança da Informação,13000.00,1986-09-15,2017-05-20,Sim
+71,Joana Bittencourt,joana.bittencourt@empresa.com,Marketing,Gerente de E-commerce,10500.00,1988-02-22,2019-12-05,Sim
+72,Renato Alencar,renato.alencar@empresa.com,Vendas,Executivo de Vendas,5900.00,1993-06-10,2021-07-10,Sim
+73,Mônica Assis,monica.assis@empresa.com,Logística,Coordenador de Frota,7000.00,1987-12-01,2018-09-15,Sim
+74,Pablo Medeiros,pablo.medeiros@empresa.com,TI,Desenvolvedor Frontend Junior,4100.00,2001-08-08,2023-10-20,Sim
+75,Tatiana Gouveia,tatiana.gouveia@empresa.com,RH,Diretor de RH,17500.00,1981-05-14,2015-03-10,Sim
+76,Leandro Vilela,leandro.vilela@empresa.com,Financeiro,Analista Fiscal Pleno,5300.00,1994-10-29,2021-02-15,Sim
+77,Ester Braga,ester.braga@empresa.com,Marketing,Designer UX/UI Pleno,6800.00,1995-01-17,2020-11-10,Sim
+78,Igor Cintra,igor.cintra@empresa.com,Vendas,Analista de Inteligência Comercial,6200.00,1990-07-25,2019-08-05,Sim
+79,Suelen Amorim,suelen.amorim@empresa.com,TI,Analista de Suporte Junior,3200.00,1999-12-11,2023-04-12,Sim
+80,Cristiano Novaes,cristiano.novaes@empresa.com,Logística,Supervisor de Operações,6500.00,1988-03-30,2017-10-20,Sim
+81,Flávia Quintino,flavia.quintino@empresa.com,TI,Desenvolvedor Backend Pleno,6600.00,1996-05-04,2022-06-15,Sim
+82,Douglas Farias,douglas.farias@empresa.com,RH,Analista de Benefícios,4800.00,1992-09-22,2020-04-10,Não
+83,Alice Prado,alice.prado@empresa.com,Financeiro,Gerente de Planejamento,11500.00,1985-11-16,2018-01-25,Sim
+84,Gabriel Lira,gabriel.lira@empresa.com,Marketing,Assistente de Eventos,2800.00,2002-02-07,2023-09-10,Sim
+85,Lorena Paiva,lorena.paiva@empresa.com,Vendas,Executivo de Vendas,5500.00,1994-06-21,2021-05-05,Sim
+86,César Augusto,cesar.augusto@empresa.com,TI,Analista de Infraestrutura Pleno,6000.00,1991-12-09,2019-11-15,Sim
+87,Natacha Silveira,natacha.silveira@empresa.com,Logística,Analista de Exportação,5200.00,1993-04-26,2022-02-10,Sim
+88,Otávio Rangel,otavio.rangel@empresa.com,TI,Diretor de Tecnologia (CTO),22000.00,1976-08-14,2014-01-10,Sim
+89,Melissa Bicalho,melissa.bicalho@empresa.com,RH,Analista de Recrutamento,4500.00,1997-10-05,2023-03-20,Sim
+90,Breno Xavier,breno.xavier@empresa.com,Financeiro,Analista Financeiro Junior,3800.00,1999-01-20,2024-01-05,Sim
+91,Laís Resende,lais.resende@empresa.com,Marketing,Copywriter,4000.00,1996-07-11,2022-08-15,Sim
+92,Valter Cruz,valter.cruz@empresa.com,Vendas,Supervisor de Vendas,7500.00,1986-03-29,2017-06-10,Sim
+93,Elisa Meireles,elisa.meireles@empresa.com,TI,Product Owner,10500.00,1989-09-08,2019-04-25,Sim
+94,Julio Saraiva,julio.saraiva@empresa.com,Logística,Operador de Empilhadeira,2800.00,1995-11-23,2021-09-01,Sim
+95,Tânia Lacerda,tania.lacerda@empresa.com,TI,Estagiário de Desenvolvimento,1500.00,2005-02-18,2024-04-10,Sim
+96,Caetano Veloso,caetano.veloso@empresa.com,RH,Estagiário de Psicologia,1500.00,2003-08-01,2023-11-20,Sim
+97,Rafaela Bastos,rafaela.bastos@empresa.com,Financeiro,Coordenador Financeiro,8500.00,1987-05-19,2018-07-15,Sim
+98,Heitor Magalhães,heitor.magalhaes@empresa.com,Marketing,Estagiário de Design,1500.00,2004-12-10,2024-03-05,Sim
+99,Clara Marinho,clara.marinho@empresa.com,Vendas,Key Account Manager,9500.00,1990-04-13,2019-10-20,Sim
+100,Alexandre Dutra,alexandre.dutra@empresa.com,TI,Analista de Dados Pleno,7000.00,1994-06-25,2021-01-15,Sim
