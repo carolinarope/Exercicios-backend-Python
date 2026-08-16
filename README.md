@@ -1,35 +1,38 @@
-# Exercícios Backend Python
+# Exercícios de Backend com Python
 
-Exercícios práticos de backend em Python, de básico a POO.  
-Simula trabalho real do mercado.
+Repositório dedicado à prática de programação backend com Python,
+desenvolvido de forma progressiva.
 
-## Estrutura
+Os exercícios acompanham minha evolução desde fundamentos de programação
+até Programação Orientada a Objetos e conceitos utilizados no
+desenvolvimento backend.
 
-- **01-basico/** — Listas, dicts, funções, loops (agosto)
-- **02-intermediario/** — Arquivo, APIs fake, POO (setembro)
-- **03-poo/** — Classes, herança, métodos (outubro)
-- **04-dados/** — CSV, análise simples (paralelo)
+## 🧠 Conteúdos praticados
 
-## Cronograma
+- Lógica de programação
+- Listas e dicionários
+- Funções
+- Estruturas condicionais
+- Laços de repetição
+- Manipulação de arquivos
+- Tratamento de exceções
+- Programação Orientada a Objetos
+- Organização de código
+- Resolução de problemas
 
-Agosto: 10 exercícios  
-Setembro: 10 exercícios  
-Outubro: 10 exercícios  
-Novembro: 10 exercícios  
-Dezembro: 5 exercícios  
+## 📂 Organização
 
-**Total: 45 exercícios com 45 commits**
+- `01-basico/` — Fundamentos Python
+- `02-intermediario/` — Manipulação de arquivos e problemas práticos
+- `03-poo/` — Classes, objetos e relacionamento entre classes
+- `04-dados/` — Manipulação de dados
 
-## Objetivo
+## 🎯 Objetivo
 
-Mostrar experiência real de backend junior no portfólio.
-## Como Rodar
+Construir uma base sólida para desenvolvimento backend utilizando Python
+por meio de exercícios progressivos e projetos práticos.
 
-Para executar os exercícios no terminal, use o comando `python` seguido do caminho do arquivo. 
+## ▶️ Como executar
 
-**Exemplo rodando o exercício de listas:**
 ```bash
-python Python01-basico/01-listas.py
-```
-
--- Atualizado: 03/08/2026
+python caminho/do/arquivo.py
