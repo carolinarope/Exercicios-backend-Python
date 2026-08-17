@@ -1,35 +1,39 @@
-# Exercícios Backend Python
+# 🐍 Exercícios Backend Python
 
-Exercícios práticos de backend em Python, de básico a POO.  
-Simula trabalho real do mercado.
+Repositório de exercícios práticos para evolução em **Python e desenvolvimento backend**, organizados por nível de dificuldade.
 
-## Estrutura
+Os exercícios simulam pequenas demandas de desenvolvimento, com foco em lógica, regras de negócio, tratamento de erros, orientação a objetos e manipulação de dados.
 
-- **01-basico/** — Listas, dicts, funções, loops (agosto)
-- **02-intermediario/** — Arquivo, APIs fake, POO (setembro)
-- **03-poo/** — Classes, herança, métodos (outubro)
-- **04-dados/** — CSV, análise simples (paralelo)
+## 📂 Estrutura
 
-## Cronograma
+- **01-basico/** — Fundamentos de Python, estruturas de dados, funções e lógica
+- **02-intermediario/** — Validações, tratamento de erros, arquivos e integração entre funcionalidades
+- **03-poo/** — Classes, objetos, encapsulamento, herança e métodos
+- **04-dados/** — Manipulação de arquivos, CSV e processamento de dados
 
-Agosto: 10 exercícios  
-Setembro: 10 exercícios  
-Outubro: 10 exercícios  
-Novembro: 10 exercícios  
-Dezembro: 5 exercícios  
+## 🎯 Objetivo
 
-**Total: 45 exercícios com 45 commits**
+Construir uma base prática para atuação como **desenvolvedora backend Python**, evoluindo gradualmente da lógica de programação para aplicações estruturadas.
 
-## Objetivo
+## 🛠️ Tecnologias e conceitos
 
-Mostrar experiência real de backend junior no portfólio.
-## Como Rodar
+- Python
+- Programação Orientada a Objetos (POO)
+- Estruturas de dados
+- Funções e modularização
+- Validação e tratamento de erros
+- JSON e arquivos
+- Git e GitHub
+- SQL
+- APIs REST
 
-Para executar os exercícios no terminal, use o comando `python` seguido do caminho do arquivo. 
+## 📌 Metodologia
 
-**Exemplo rodando o exercício de listas:**
+Os exercícios são desenvolvidos a partir de **tickets simulando demandas de uma equipe de desenvolvimento**, permitindo praticar a resolução de problemas, organização do código e evolução incremental dos projetos.
+
+## ▶️ Como executar
+
+No terminal:
+
 ```bash
-python Python01-basico/01-listas.py
-```
-
--- Atualizado: 03/08/2026
+python caminho/do/arquivo.py
