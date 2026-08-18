@@ -1,88 +1,68 @@
-# 🎫 TICKET DEV-PY-001 — Modelagem de Cliente com POO
+# 🧩 POO — Programação Orientada a Objetos
 
-## 📌 Contexto
+Exercícios progressivos de Programação Orientada a Objetos
+aplicados ao contexto de desenvolvimento backend Python.
 
-Como parte da evolução do projeto de estudos em Python, foi criada uma primeira implementação utilizando Programação Orientada a Objetos (POO).
-
-O objetivo deste exercício é substituir gradualmente estruturas baseadas apenas em dicionários e funções por classes e objetos, preparando a aplicação para uma arquitetura mais organizada.
-
----
-
-## 🎯 Objetivo
-
-Criar uma classe `Cliente` capaz de representar clientes do sistema, contendo seus dados básicos e um método para exibição das informações.
+Os exercícios seguem uma evolução incremental, simulando
+tickets de desenvolvimento e preparando a aplicação para
+a futura refatoração da Bela Agenda em POO.
 
 ---
 
-## 📋 Requisitos
+## 📚 Evolução
 
-- [x] Criar a classe `Cliente`
-- [x] Implementar o método construtor `__init__`
-- [x] Criar os atributos `id`, `nome`, `email` e `telefone`
-- [x] Criar o método `exibir_dados()`
-- [x] Instanciar três objetos da classe
-- [x] Atribuir dados diferentes para cada cliente
-- [x] Executar testes no terminal
-- [x] Verificar se cada objeto mantém seus próprios dados
+### DEV-PY-001 — Modelagem de Cliente com POO
 
----
+**Objetivo:** criar a primeira representação de `Cliente`
+utilizando classe e objetos.
 
-## 🛠️ Tecnologias
+#### Conceitos praticados
 
-- Python 3
-- Programação Orientada a Objetos
-- Classes e objetos
-- Construtor `__init__`
-- Atributos de instância
-- Métodos
-- F-strings
+- classes
+- objetos
+- atributos de instância
+- `__init__`
+- `self`
+- métodos
+
+**Arquivo:** `01-cliente_poo.py`
 
 ---
 
-## 🧠 Conceitos praticados
+### DEV-PY-002 — Cliente com Construtor e Comportamentos
 
-### Classe
+**Objetivo:** evoluir a classe `Cliente`, utilizando o
+construtor para inicialização dos atributos e adicionando
+comportamentos próprios à entidade.
 
-A classe `Cliente` funciona como um modelo para criação de objetos que representam clientes.
+#### Conceitos praticados
 
-### Objeto
+- construtor `__init__`
+- parâmetros do construtor
+- atributos de instância
+- métodos
+- alteração do estado do objeto
+- independência entre instâncias
 
-Foram criadas três instâncias independentes:
+**Arquivo:** `02-cliente_construtor.py`
 
-- `c1`
-- `c2`
-- `c3`
+#### Funcionalidades
 
-Cada objeto possui seus próprios valores para nome, e-mail, telefone e ID.
-
-### Construtor
-
-O método `__init__` inicializa os atributos de cada novo objeto.
-
-### `self`
-
-O parâmetro `self` representa a própria instância que está utilizando o método.
+- criação de clientes através do construtor;
+- exibição dos dados;
+- atualização do telefone;
+- teste com múltiplas instâncias.
 
 ---
 
-## 🧪 Testes realizados
+## 🎯 Próxima evolução
 
-Foram criados três clientes com dados diferentes e executado o método `exibir_dados()` para verificar o comportamento dos objetos.
+Os próximos exercícios de POO irão aprofundar:
 
-### Resultado esperado
+- encapsulamento;
+- responsabilidades das classes;
+- organização do código;
+- aplicação gradual dos conceitos na Bela Agenda.
 
-```text
-ID: 1
-Nome: Carolina
-Email: carolina@gmail.com
-Telefone: 99999999
-
-ID: 2
-Nome: Amanda
-Email: amanda@gmail.com
-Telefone: 88888888
-
-ID: 3
-Nome: Bruna
-Email: bruna@gmail.com
-Telefone: 77777777
+A evolução será posteriormente aplicada ao projeto
+principal `Bela Agenda`.
