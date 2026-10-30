@@ -14,17 +14,19 @@ Repositório de exercícios práticos desenvolvidos durante meus estudos de Pyth
 
 ## Organização
 
-- `01-basico/` — fundamentos, estruturas de dados, funções e lógica.
-- `02- intermediario/poo/` — classes de cliente, construtores e alteração do estado de objetos.
-- `04- dados/` — leitura de CSV, filtros, agrupamentos e agregações com Pandas.
+- [`01-basico/`](01-basico/) — listas, simulação de login e calculadora com funções.
+- [`02- intermediario/poo/`](02-%20intermediario/poo/) — classes de cliente, construtores e alteração do estado de objetos.
+- [`04- dados/`](04-%20dados/) — exercício introdutório com CSV e Pandas, realizado durante uma exploração breve de análise de dados.
 
 ## Como executar
 
 Tenha Python instalado e execute no terminal o arquivo desejado:
 
 ```bash
-python caminho/do/arquivo.py
+python "02- intermediario/poo/02-cliente_construtor.py"
 ```
+
+Os nomes das pastas acima correspondem à estrutura publicada, incluindo os espaços. Para o exercício de Pandas, consulte as dependências e a execução no README da própria pasta.
 
 ## Objetivo de aprendizagem
 
