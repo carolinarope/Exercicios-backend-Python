@@ -4,8 +4,8 @@ Este projeto simula uma demanda real do setor de Recursos Humanos (RH), focado n
 
 ## 🎯 O Ticket de Negócio (Objetivo)
 O script foi desenvolvido para processar uma base de dados corporativa em formato `.csv` e entregar os seguintes indicadores estratégicos:
-1. Cálculo dinâmico da idade exata dos funcionários com base na data de nascimento.
-2. Filtragem de colaboradores sêniores (acima de 30 anos) para políticas de retenção.
+1. Estimativa de idade a partir da diferença em dias dividida por 365; o cálculo atual não considera exatamente o aniversário.
+2. Filtragem de registros com idade estimada de 30 anos ou mais, conforme a condição implementada. A idade não determina senioridade profissional.
 3. Extração de métricas financeiras globais (Custo Total e Média Salarial).
 4. Mapeamento de custos salariais agrupados por Departamento.
 5. Geração de um ranking salarial ordenado.
