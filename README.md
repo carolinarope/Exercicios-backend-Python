@@ -15,9 +15,8 @@ Repositório de exercícios práticos desenvolvidos durante meus estudos de Pyth
 ## Organização
 
 - `01-basico/` — fundamentos, estruturas de dados, funções e lógica.
-- `02-intermediario/` — validações, tratamento de erros e arquivos.
-- `03-poo/` — classes, objetos e organização orientada a objetos.
-- `04-dados/` — exercícios de leitura e processamento de dados.
+- `02- intermediario/poo/` — classes de cliente, construtores e alteração do estado de objetos.
+- `04- dados/` — leitura de CSV, filtros, agrupamentos e agregações com Pandas.
 
 ## Como executar
 
